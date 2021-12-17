@@ -1,0 +1,2 @@
+- Hidden National Geographic wallpapers
+- macOS default apps
